@@ -1,0 +1,2 @@
+# maGazette
+blog_articles
